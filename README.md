@@ -288,7 +288,9 @@ node mintToken.js <tokenId>
 
 * OpenSea Market Place Url - https://rinkeby.opensea.io/assets/unidentified-contract-v368
 
-* 10 tokens have been minted. 5 of those tokens have been listed on the market place and sold to an account(it has a different address): 0xf1581d91197Ae11eaC2d0D35a4623Dfa34886649. List of the 10 tokens minted:
+* 10 tokens have been minted.
+* 5 of those tokens have been listed on the market place and sold to an account(it has a different address): 0xf1581d91197Ae11eaC2d0D35a4623Dfa34886649. List of the 10 tokens minted:
+
 1)https://rinkeby.opensea.io/assets/0xfeb7ff8c0e57691d8f2e9755d080a579aec7c953/1
 2)https://rinkeby.opensea.io/assets/0xfeb7ff8c0e57691d8f2e9755d080a579aec7c953/2
 3)https://rinkeby.opensea.io/assets/0xfeb7ff8c0e57691d8f2e9755d080a579aec7c953/3
@@ -301,6 +303,7 @@ node mintToken.js <tokenId>
 10)https://rinkeby.opensea.io/assets/0xfeb7ff8c0e57691d8f2e9755d080a579aec7c953/10
 
 * List of 5 tokens sold
+
 1)https://rinkeby.opensea.io/assets/0xfeb7ff8c0e57691d8f2e9755d080a579aec7c953/6
 2)https://rinkeby.opensea.io/assets/0xfeb7ff8c0e57691d8f2e9755d080a579aec7c953/7
 3)https://rinkeby.opensea.io/assets/0xfeb7ff8c0e57691d8f2e9755d080a579aec7c953/8
