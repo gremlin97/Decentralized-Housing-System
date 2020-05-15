@@ -216,10 +216,9 @@ node mintToken.js <tokenId>
 
 ## Output
 
-```
+
 [a relative link](tokenoutputlog.md)
 
-```
 
 ### Contract Address and ABI
 #### View the contracts on etherscan 
@@ -285,10 +284,11 @@ node mintToken.js <tokenId>
 ```
 * SolnSquareVerifier
 
-```
 [a relative link](SolnSquareVerifierAbi.md)
-```
+
 * OpenSea Market Place Url - https://rinkeby.opensea.io/assets/unidentified-contract-v368
+
+![OpenSea Rinkeby Marketplace](opensea.png)
 
 
 # Project Resources
