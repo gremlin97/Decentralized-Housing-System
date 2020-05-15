@@ -284,7 +284,7 @@ node mintToken.js <tokenId>
 ```
 * SolnSquareVerifier
 
-[a relative link](SolnSquareVerifierAbi.md)
+[Link to SolnSquareVerifier Abi ](SolnSquareVerifierAbi.md)
 
 * OpenSea Market Place Url - https://rinkeby.opensea.io/assets/unidentified-contract-v368
 
